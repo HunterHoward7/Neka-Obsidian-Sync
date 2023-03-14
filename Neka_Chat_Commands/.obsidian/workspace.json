@@ -128,13 +128,21 @@
                 "file": "Twitch Mod Commands.md"
               }
             }
+          },
+          {
+            "id": "f7691ee5e65212f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a43a2e630d15f1",
+  "active": "417a9eed20fd0883",
   "lastOpenFiles": [
     "Twitch Mod Commands.md"
   ]
