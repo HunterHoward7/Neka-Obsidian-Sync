@@ -1,11 +1,11 @@
-[#BeatSaber](app://obsidian.md/index.html#BeatSaber)  
+## Beatsaber
 - !bsfp - Switch scene to Beat Saber First Person  
 - !bstp - Switch scene to Beat Saber Third Person  
 
-[#OBS](app://obsidian.md/index.html#OBS)  
+## OBS
 - !brb - Switch scene to BRB  
 
-[#ChatCommands](app://obsidian.md/index.html#ChatCommands)  
+## Chat Commands
 - !modadd [Put BSR code here] - Adds song to the queue while ignoring filters  
 - !addquote  
 - !quoteremove  
@@ -13,6 +13,6 @@
 - !quoteedit  
 - !endpoll  
 
-[#Misc](app://obsidian.md/index.html#Misc)  
+## Misc
 - /user [username]  
 - !sabotage on - Turns !bomb on !sabotage off - Turns !bomb off
