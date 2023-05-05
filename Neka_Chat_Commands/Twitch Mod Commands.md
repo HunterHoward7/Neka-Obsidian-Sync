@@ -12,6 +12,7 @@
 - !plug - An alternative shoutout command that gIves a shoutout to people without showing a clip (edited)  
 - !quoteedit  
 - !endpoll  
+- !setgame - Sets the category for neka's stream
 
 ## Misc
 - /user [username]  
