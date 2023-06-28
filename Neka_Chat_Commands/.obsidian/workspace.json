@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spinning wheel of Death 1.md",
+                "file": "Spinning wheel of Death.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spinning wheel of Death 1.md",
+                "file": "Spinning wheel of Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spinning wheel of Death 1.md",
+                "file": "Spinning wheel of Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spinning wheel of Death 1.md"
+                "file": "Spinning wheel of Death.md"
               }
             }
           },
@@ -178,6 +178,6 @@
   "active": "3473ff9741386e41",
   "lastOpenFiles": [
     "Twitch Mod Commands.md",
-    "Spinning wheel of Death 1.md"
+    "Spinning wheel of Death.md"
   ]
 }
